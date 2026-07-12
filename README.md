@@ -73,9 +73,9 @@ $ whoami
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Patient Care Management System]()** | Microservices backend with auth, patient, billing & analytics services behind an API gateway | Spring Boot, Docker, PostgreSQL, Kafka, gRPC |
-| **[Help Desk & Ticket Management System]()** | Role-based, email-integrated ticketing system | Java, Spring Boot, React |
-| **[AI-Driven Budget Tracking System]()** | Personal finance tracker built during Infosys internship | Spring Boot, React, JWT |
+| **[Patient Care Management System](https://github.com/Sivasuriya-skr/patientcare)** | Microservices backend with auth, patient, billing & analytics services behind an API gateway | Spring Boot, Docker, PostgreSQL, Kafka, gRPC |
+| **[Help Desk & Ticket Management System](https://github.com/Sivasuriya-skr/gira)** | Role-based, email-integrated ticketing system | Java, Spring Boot, React |
+| **[AI-Driven Budget Tracking System](https://github.com/Sivasuriya-skr/maky)** | Personal finance tracker built during Infosys internship | Spring Boot, React, JWT |
 
 
 
