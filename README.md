@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:1A1A2E&height=220&section=header&text=Sivasuriya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React%2FNext.js&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:1A1A2E&height=220&section=header&text=Sivasuriya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React.Js&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
-<h3 align="center">Full Stack Developer | Java • Spring Boot • React/Next.js | Building systems that scale</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+microservices+that+don't+fall+over;Java+%2B+Spring+Boot+%2B+React+%2F+Next.js;Currently+shipping%3A+Patient+Care+Management+System;Open+to+SWE+%2F+Backend+Internships" alt="Typing SVG" />
@@ -13,7 +13,7 @@ $ whoami
 > CSE student @ V.S.B Engineering College | Batch 2023–2027 | GPA: 8.31
 > Full Stack Developer @ Kaashiv InfoTech (Internship)
 > Java Stack Developer @ Infosys (Virtual Internship)
-> Actively looking for SWE / Backend internship & full-time roles
+> Actively looking for Web development (Frontend/Backend) internship & full-time roles
 ```
 
 ### 🧠 About Me
@@ -40,7 +40,7 @@ $ whoami
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
@@ -48,7 +48,7 @@ $ whoami
 **Frontend**
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
@@ -77,40 +77,23 @@ $ whoami
 | **[Help Desk & Ticket Management System]()** | Role-based, email-integrated ticketing system | Java, Spring Boot, React |
 | **[AI-Driven Budget Tracking System]()** | Personal finance tracker built during Infosys internship | Spring Boot, React, JWT |
 
-> 🔗 Replace the empty `()` links above with your actual repo URLs.
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
-> 🔗 Replace `YOUR_USERNAME` with your actual GitHub username in the URLs above.
-
----
 
 ### 🧩 LeetCode Activity
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/sivasuriyaskr?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
-> 🔗 Replace `YOUR_LEETCODE_USERNAME` with your actual LeetCode username in the URL above.
 
 ---
 
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sivasuriya004"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:suriyaskr2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
