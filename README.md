@@ -1,61 +1,107 @@
-<div align="center">
-<img src="assets/hero.svg" width="100%"/>
-</div>
+<h1 align="center">Hi, I'm Sivasuriya 👋</h1>
+<h3 align="center">Full Stack Developer | Java • Spring Boot • React/Next.js | Building systems that scale</h3>
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+microservices+that+don't+fall+over;Java+%2B+Spring+Boot+%2B+React+%2F+Next.js;Currently+shipping%3A+Patient+Care+Management+System;Open+to+SWE+%2F+Backend+Internships" alt="Typing SVG" />
+</p>
 
-<img src="assets/icon_about.svg" width="30" align="left"/>&nbsp;&nbsp;
-### About me
+```bash
+$ whoami
+> CSE student @ V.S.B Engineering College | Batch 2023–2027 | GPA: 8.31
+> Full Stack Developer @ Kaashiv InfoTech (Internship)
+> Java Stack Developer @ Infosys (Virtual Internship)
+> Actively looking for SWE / Backend internship & full-time roles
+```
 
-I'm a final-year CSE student who got tired of tutorial projects that never break, so I started building things with real moving parts — microservices that need to talk to each other, containers that need to network correctly, systems that fail in interesting ways at 1am. That's where I actually learned the most.
+### 🧠 About Me
 
-I'm looking for an internship or entry-level role where I can keep doing that, alongside people who'll tell me when my code is wrong.
+- 🔭 Currently building **Patient Care Management System** — a microservices backend (auth, patient, billing, analytics + API gateway) with Spring Boot, Docker, PostgreSQL, Kafka & gRPC
+- 🛠️ Built **ANTIGRAVITY** — an AI-powered runbook automation tool (Flask + React) with command classification, risk gating & MCP auto-remediation
+- 🤖 Built an **AI Data Analyst Agent** using Python, Streamlit & Gemini API
+- 🌱 Currently deepening my **Python** fundamentals beyond hackathon-level knowledge
+- 🏛️ Passionate about Tamil cultural heritage — reflected in my [portfolio's Dravidian temple-inspired design]()
+- 💬 Ask me about Java, Spring Boot, Docker networking, or microservices debugging (I've earned some scars)
 
-<br>
+---
 
-<img src="assets/tech_strip.svg" width="100%"/>
+### 🧰 Tech Stack
 
-<br>
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-<img src="assets/icon_projects.svg" width="30" align="left"/>&nbsp;&nbsp;
-### What I've built
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
 
-**Patient Care Management System** — a microservices backend (auth, patient, billing, analytics + API gateway) in Spring Boot, containerized with Docker.
-<br>The interesting part wasn't the CRUD — it was getting the services to actually find and trust each other. I burned through a few days on Docker networking and container-to-container auth before switching my infra approach entirely to a cleaner Docker Compose setup. I wrote up what I learned so I wouldn't forget it, and so the next person debugging the same thing doesn't have to start from zero.
-<br>`Java` `Spring Boot` `Docker` `PostgreSQL` `Kafka` `gRPC`
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
-**ANTIGRAVITY** — an AI-powered runbook automation agent, built in a hackathon.
-<br>Given a runbook, it classifies commands by risk and can auto-remediate the safe ones, gating anything dangerous for human approval. Built the risk-gating logic specifically so the AI can't just run whatever it wants — that constraint was the actual design problem.
-<br>`Python` `Flask` `React` `MCP`
+**Database & Infra**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
 
-**Help Desk & Ticket Management System** — role-based, email-integrated support platform.
-<br>My most complete end-to-end build — auth, permissions, and notifications all working together as one real product rather than isolated features.
-<br>`Java` `React` `JWT` `REST APIs`
+**AI / Tools**
+<p>
+  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
-<br>
+---
 
-<img src="assets/icon_currently.svg" width="30" align="left"/>&nbsp;&nbsp;
-### Currently
+### 🚀 Featured Projects
 
-Working through a structured Python roadmap past hackathon-level knowledge, and getting comfortable calling projects "done" only once they have tests, not just a working demo.
+| Project | Description | Stack |
+|---|---|---|
+| **[Patient Care Management System]()** | Microservices backend with auth, patient, billing & analytics services behind an API gateway | Spring Boot, Docker, PostgreSQL, Kafka, gRPC |
+| **[ANTIGRAVITY]()** | AI-powered runbook automation — command classification, risk gating, MCP auto-remediation, Discord alerts | Flask, React, Python |
+| **[Help Desk & Ticket Management System]()** | Role-based, email-integrated ticketing system | Java, Spring Boot, React |
+| **[AI-Driven Budget Tracking System]()** | Personal finance tracker built during Infosys internship | Spring Boot, React, JWT |
+| **[AI Data Analyst Agent]()** | Conversational data analysis tool over SQLite datasets | Python, Streamlit, Gemini API |
 
-<br><br>
+> 🔗 Replace the empty `()` links above with your actual repo URLs.
 
-<img src="assets/icon_stats.svg" width="30" align="left"/>&nbsp;&nbsp;
-### GitHub
+---
 
-<br><br>
+### 📊 GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d0f14&title_color=a78bfa&icon_color=22d3ee&text_color=e2e8f0" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d0f14&title_color=a78bfa&text_color=e2e8f0" height="165"/>
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="assets/icon_contact.svg" width="30" align="left"/>&nbsp;&nbsp;
-### Reach me
+> 🔗 Replace `YOUR_USERNAME` with your actual GitHub username in the URLs above.
 
-<br><br>
+---
 
-**[Email](mailto:your.email@example.com)**  &nbsp;&#183;&nbsp;  **[LinkedIn](https://linkedin.com/in/yourusername)**  &nbsp;&#183;&nbsp;  **[Portfolio](https://yourportfolio.com)**
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>"Code like you're building for scale, debug like you're solving for the last time."</i></p>
