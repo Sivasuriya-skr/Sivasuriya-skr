@@ -5,12 +5,12 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+microservices+that+don't+fall+over;Java+%2B+Spring+Boot+%2B+React+%2F+Next.js;Currently+shipping%3A+Patient+Care+Management+System;Open+to+SWE+%2F+Backend+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+microservices+that+don't+fall+over;Java+%2B+Spring+Boot+%2B+React.Js;Open+to+SWE+%2F+Frontend+%2F+Backend+Internships" alt="Typing SVG" />
 </p>
 
 ```bash
 $ whoami
-> CSE student @ V.S.B Engineering College | Batch 2023–2027 | GPA: 8.31
+> CSE student @ V.S.B Engineering College | Batch 2023–2027 | GPA: 8.2
 > Full Stack Developer @ Kaashiv InfoTech (Internship)
 > Java Stack Developer @ Infosys (Virtual Internship)
 > Actively looking for Web development (Frontend/Backend) internship & full-time roles
@@ -83,7 +83,7 @@ $ whoami
 ### 🧩 LeetCode Activity
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sivasuriyaskr?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/sivasuriyaskr?theme=dark&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 
