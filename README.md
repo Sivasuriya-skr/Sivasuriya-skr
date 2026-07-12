@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+microservices+that+don't+fall+over;Java+%2B+Spring+Boot+%2B+React+%2F+Next.js;Currently+shipping%3A+Patient+Care+Management+System;Open+to+SWE+%2F+Backend+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+microservices+that+don't+fall+over;Java+%2B+Spring+Boot+%2B+React.Js;Open+to+SWE+%2F+Frontend+Backend+Internships" alt="Typing SVG" />
 </p>
 
 ```bash
