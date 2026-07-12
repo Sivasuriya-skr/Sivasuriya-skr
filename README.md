@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:1A1A2E&height=220&section=header&text=Sivasuriya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React%2FNext.js&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:1A1A2E&height=220&section=header&text=Sivasuriya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React Js&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
-<h1 align="center">Hi, I'm Sivasuriya 👋</h1>
-<h3 align="center">Full Stack Developer | Java • Spring Boot • React/Next.js | Building systems that scale</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+microservices+that+don't+fall+over;Java+%2B+Spring+Boot+%2B+React+%2F+Next.js;Currently+shipping%3A+Patient+Care+Management+System;Open+to+SWE+%2F+Backend+Internships" alt="Typing SVG" />
