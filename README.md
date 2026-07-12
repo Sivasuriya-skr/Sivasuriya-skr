@@ -79,22 +79,7 @@ $ whoami
 
 > 🔗 Replace the empty `()` links above with your actual repo URLs.
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sivasuriya-skr&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivasuriya-skr&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivasuriya-skr&theme=tokyonight&hide_border=true" />
-</p>
-
-> 🔗 Replace `YOUR_USERNAME` with your actual GitHub username in the URLs above.
-
----
 
 ### 📫 Connect With Me
 
