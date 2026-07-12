@@ -15,12 +15,11 @@ $ whoami
 
 ### 🧠 About Me
 
-- 🔭 Currently building **Patient Care Management System** — a microservices backend (auth, patient, billing, analytics + API gateway) with Spring Boot, Docker, PostgreSQL, Kafka & gRPC
-- 🛠️ Built **ANTIGRAVITY** — an AI-powered runbook automation tool (Flask + React) with command classification, risk gating & MCP auto-remediation
-- 🤖 Built an **AI Data Analyst Agent** using Python, Streamlit & Gemini API
-- 🌱 Currently deepening my **Python** fundamentals beyond hackathon-level knowledge
-- 🏛️ Passionate about Tamil cultural heritage — reflected in my [portfolio's Dravidian temple-inspired design]()
-- 💬 Ask me about Java, Spring Boot, Docker networking, or microservices debugging (I've earned some scars)
+- 💼 Built **3 core projects** that anchor my portfolio: **Patient Care Management System** (microservices backend), **Help Desk & Ticket Management System** (role-based, email-integrated), and **AI-Driven Budget Tracking System** (built during my Infosys internship)
+- 🌱 Currently learning **Python for AI development** — moving beyond hackathon-level knowledge toward building real AI-powered applications
+- 🤖 Exploring **AI tools and APIs** (Claude, Gemini) to integrate intelligent features into full-stack apps
+- 🎯 Long-term goal: become a strong full stack / backend engineer with real AI development skills, not just surface-level familiarity
+- 💬 Ask me about Java, Spring Boot, microservices, or Docker — happy to talk shop
 
 ---
 
@@ -72,10 +71,8 @@ $ whoami
 | Project | Description | Stack |
 |---|---|---|
 | **[Patient Care Management System]()** | Microservices backend with auth, patient, billing & analytics services behind an API gateway | Spring Boot, Docker, PostgreSQL, Kafka, gRPC |
-| **[ANTIGRAVITY]()** | AI-powered runbook automation — command classification, risk gating, MCP auto-remediation, Discord alerts | Flask, React, Python |
 | **[Help Desk & Ticket Management System]()** | Role-based, email-integrated ticketing system | Java, Spring Boot, React |
 | **[AI-Driven Budget Tracking System]()** | Personal finance tracker built during Infosys internship | Spring Boot, React, JWT |
-| **[AI Data Analyst Agent]()** | Conversational data analysis tool over SQLite datasets | Python, Streamlit, Gemini API |
 
 > 🔗 Replace the empty `()` links above with your actual repo URLs.
 
