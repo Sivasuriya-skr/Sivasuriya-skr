@@ -77,7 +77,7 @@ $ whoami
 | **[Help Desk & Ticket Management System]()** | Role-based, email-integrated ticketing system | Java, Spring Boot, React |
 | **[AI-Driven Budget Tracking System]()** | Personal finance tracker built during Infosys internship | Spring Boot, React, JWT |
 
-> 🔗 Replace the empty `()` links above with your actual repo URLs.
+
 
 
 
